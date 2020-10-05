@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GUI Scene/Login.unity
+    guid: b8407b2a559b83c448aa856ebc3fb397
+  - enabled: 1
+    path: Assets/GUI Scene/Main.unity
+    guid: c9d59814fb98b934a82a32f50f32fc62
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Dialog.unity
+    guid: 1f5afd2ccd6aeef41b2218977efee5b2
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Main1.unity
+    guid: b623e8acdb2f37e41a8f8b1e776f4dee
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Main2.unity
+    guid: 86899141560fb974d9049b6b60b5ab5e
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Drawer.unity
+    guid: ce68c879bc4df6f439e3e7f94bf2ab82
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Hanger.unity
+    guid: de5c373af682b954c816d8c581e416b2
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Mat.unity
+    guid: 10841aa47b04b2942907eb81a24b075d
+  - enabled: 1
+    path: Assets/GUI Scene/Furniture_Shelf.unity
+    guid: 353e48455fa97fa418fb132f35e00cab
+  - enabled: 1
+    path: Assets/Furniture/Drawer/drawer1.unity
+    guid: 031c8006a6df504439d863f0703a47ba
+  - enabled: 1
+    path: Assets/Furniture/Drawer/drawer2.unity
+    guid: 8c3c3c4154f654340a09b69b11dedf78
+  - enabled: 1
+    path: Assets/Furniture/Living/hanger1.unity
+    guid: 912a96cb5079d684ba3909213832432d
+  - enabled: 1
+    path: Assets/Furniture/Living/hanger2.unity
+    guid: 4f01e39b42e62d148b1674cb5d71a719
+  - enabled: 1
+    path: Assets/Furniture/Living/mat1.unity
+    guid: a8d44cb805c14bc45ba74d0e52a7fcd2
+  - enabled: 1
+    path: Assets/Furniture/Drawer/shelf1.unity
+    guid: 2516def57be8c45429537ef22e9366d2
+  - enabled: 1
+    path: Assets/GUI Scene/Bed/Measure_New.unity
+    guid: afa88a80338bbb04c806e20482d19763
+  - enabled: 0
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
+    guid: e6a6fa04348cb45c9b0221eb19c946da
+  - enabled: 1
+    path: Assets/GUI Scene/Sorting/Sort_Result.unity
+    guid: 3dced37c5f76aa842a40fe8018ecee75
+  - enabled: 1
+    path: Assets/GUI Scene/Sorting/sofa.unity
+    guid: a8168596f0a37814db648b5383a682e2
+  - enabled: 1
+    path: Assets/GUI Scene/Sort_Furniture.unity
+    guid: 93acd015ad094a6479bcf3d6bd44f225
+  - enabled: 1
+    path: Assets/GUI Scene/Favorite/Favorite.unity
+    guid: 5496920b9c684b74b890cec1d9f88ff9
+  - enabled: 1
+    path: Assets/GUI Scene/Recommend/Recommend.unity
+    guid: 12948212e3fa3164bbb96d1fec9417b4
+  - enabled: 1
+    path: Assets/Furniture/Bed/bed1.unity
+    guid: 40097faf002efd34cb426992347691d3
+  - enabled: 1
+    path: Assets/Furniture/Bed/bed2.unity
+    guid: 34b2d187eb9452647b8384aba46a1b7b
+  - enabled: 1
+    path: Assets/Furniture/Bed/bed3.unity
+    guid: b763c0e8bff4e2a4b822bcb80259758e
+  - enabled: 1
+    path: Assets/Furniture/Bed/bed4.unity
+    guid: 40ab5e8c7269ae840be8717a371c5900
+  - enabled: 1
+    path: Assets/Furniture/Chair/chair1.unity
+    guid: 06a764b081a8ee24d897dc9d98911a0a
+  - enabled: 1
+    path: Assets/Furniture/Chair/chair2.unity
+    guid: 40cb1d3d82d4f9b49bfff391b44c5d50
+  - enabled: 1
+    path: Assets/Furniture/Chair/chair3.unity
+    guid: 9ab251ce647950f4eb93f3acd03971d1
+  - enabled: 1
+    path: Assets/Furniture/Chair/chair4.unity
+    guid: 034abe4d876951f42823e665824da3fe
+  - enabled: 1
+    path: Assets/Furniture/Chair/chair5.unity
+    guid: 595b921e7495d9f4a98b08dc1491353d
+  - enabled: 1
+    path: Assets/Furniture/Chair/stool1.unity
+    guid: d29062803b2791e4fbd813ebcf821988
+  - enabled: 1
+    path: Assets/Furniture/Chair/stool2.unity
+    guid: d83152873583ab84083b756dac93b971
+  - enabled: 1
+    path: Assets/Furniture/Chair/stool3.unity
+    guid: 729e4459e1b2d9f42ac9b3fe0409ca8a
+  - enabled: 1
+    path: Assets/Furniture/Drawer/bookshelf1.unity
+    guid: 2e06b54f5feb3bd48b11b322972ee005
+  - enabled: 1
+    path: Assets/Furniture/Drawer/cabinet1.unity
+    guid: 1f591c6916e8b9e4093b753a60093ae3
+  - enabled: 1
+    path: Assets/Furniture/Drawer/dresser1.unity
+    guid: 8042cbd55e60e2e4bbec3dcee160a389
+  - enabled: 1
+    path: Assets/Furniture/Drawer/tray1.unity
+    guid: 9c4df2b5ca4c22a4fb9c3644f702602a
+  - enabled: 1
+    path: Assets/Furniture/Light/light1.unity
+    guid: ae1fb21ff26c7d54ea939f104582b1cd
+  - enabled: 1
+    path: Assets/Furniture/Light/light2.unity
+    guid: 3b608cb97c8c946468db93ec962d9e69
+  - enabled: 1
+    path: Assets/Furniture/Light/light3.unity
+    guid: aea2aa37921153642bb149aa5a09f782
+  - enabled: 1
+    path: Assets/Furniture/Light/light4.unity
+    guid: f5da7536b4090714bbb1d4839ea9bb35
+  - enabled: 1
+    path: Assets/Furniture/Light/light5.unity
+    guid: 30d8a3ec1844021488e6d52b15f7678a
+  - enabled: 1
+    path: Assets/Furniture/Living/cushion1.unity
+    guid: 4d36f08e8d549164bbbb163b5383e0e0
+  - enabled: 1
+    path: Assets/Furniture/Living/cushion2.unity
+    guid: aeb721ba405d1cd4fa3b953029b79432
+  - enabled: 1
+    path: Assets/Furniture/Living/flowerpot1.unity
+    guid: 10322533e6907a34e8bc9f73818a4ea5
+  - enabled: 1
+    path: Assets/Furniture/Living/trolley1.unity
+    guid: 62d5b05bc9f11dc4eb58c5c4e3a6b540
+  - enabled: 1
+    path: Assets/Furniture/Sofa/sofa1.unity
+    guid: 78058c914d325524d8904f3f397b3560
+  - enabled: 1
+    path: Assets/Furniture/Sofa/sofa2.unity
+    guid: 341ad0af5c9bd544f99d10be1619d13c
+  - enabled: 1
+    path: Assets/Furniture/Sofa/sofa3.unity
+    guid: 7bf30c484fafd374ab75eac5086d6e47
+  - enabled: 1
+    path: Assets/Furniture/Sofa/sofa4.unity
+    guid: ace187d5d5c6b8843a0fa60a2c26360f
+  - enabled: 1
+    path: Assets/Furniture/Table/table1.unity
+    guid: 05921ba59634f854a8fc3a0822a3ad67
+  - enabled: 1
+    path: Assets/Furniture/Table/table2.unity
+    guid: 47266cb5f52a20247bdf7fc54610128f
+  - enabled: 1
+    path: Assets/Furniture/Table/table3.unity
+    guid: cc15aca569d2d504b9abbea9565d4ab2
+  - enabled: 1
+    path: Assets/Furniture/Table/table4.unity
+    guid: 810b13e0a95af444e8ce23e726bbc3a9
+  - enabled: 1
+    path: Assets/Furniture/Table/table5.unity
+    guid: cc2edfadbf153b54d92481dda1576ebc
+  - enabled: 1
+    path: Assets/GUI Scene/Bed/Furniture_Light.unity
+    guid: 1502d80ec30705e4eaf530e25514eb67
+  - enabled: 1
+    path: Assets/GUI Scene/Bed/Furniture_Living.unity
+    guid: 135c8b08cffb9454fa959cb724f76d26
+  - enabled: 1
+    path: Assets/GUI Scene/Bed/Furniture_Table.unity
+    guid: f39cc72a2e055f4478ae43290779e53b
+  - enabled: 1
+    path: Assets/GUI Scene/Bed/Recommend_Result.unity
+    guid: af75f5d85e1cd1446ae43de500db871a

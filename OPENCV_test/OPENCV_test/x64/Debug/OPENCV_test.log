@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\opencv\project\opencv_test\opencv_test\main.cpp(22): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+f:\opencv\project\opencv_test\opencv_test\main.cpp(22): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+f:\opencv\project\opencv_test\opencv_test\main.cpp(22): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  OPENCV_test.vcxproj -> F:\opencv\Project\OPENCV_test\x64\Debug\OPENCV_test.exe
